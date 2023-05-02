@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">IMC</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="height">Height</string>
+    <string name="weight">Weight</string>
+    <string name="age">Age</string>
+    <string name="calculate">Calculate</string>
+    <string name="result">Your result</string>
+    <string name="recalculate">Re-calcuate</string>
+    <string name="error">Error</string>
+
+    <string name="title_under_weight">Under weight</string>
+    <string name="desc_under_weight">You are under weight</string>
+
+    <string name="title_normal_weight">Normal weight</string>
+    <string name="desc_normal_weight">Your weight is normal and healthy</string>
+
+    <string name="title_over_weight">Over weight</string>
+    <string name="desc_over_weight">You are over weight</string>
+
+    <string name="title_obesity_weight">Obesity</string>
+    <string name="desc_obesity_weight">You have obesity</string>
+</resources>
